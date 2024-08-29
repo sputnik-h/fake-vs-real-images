@@ -1,4 +1,4 @@
-# AI vs. Real Image Classification: Shoe Authenticity Detection
+# AI vs. Real Image Classification: Shoe Image Classification
 
 This project aims to develop a Convolutional Neural Network (CNN) model to classify images of shoes as either AI-generated or real. As AI-generated images become more prevalent and increasingly indistinguishable from real images, distinguishing between them has critical implications for authenticity and trust in visual media, particularly in online resale platforms.
 
