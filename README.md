@@ -52,11 +52,11 @@ To improve model performance:
 
 ## Contributors
 
-- **Tsubasa Lin** - Project code
-- **Ethan Liu** - Project code
-- **Jaden Mullin** - Project report
-- **Joy Sun** - Project code
-- **Justin Yang** - Project report
+- Tsubasa Lin - Project code
+- **Ethan Liu - Project code**
+- Jaden Mullin - Project report
+- Joy Sun - Project code
+- Justin Yang - Project report
 
 ## Acknowledgments
 
