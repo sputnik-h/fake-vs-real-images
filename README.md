@@ -18,7 +18,7 @@ The project focuses on identifying the differences between real and AI-generated
 
 ## Data Preparation
 
-The dataset comprises 2,181 images, split into 824 real images and 1,357 AI-generated images. Images were resized to 240x240 pixels, and a train-test split was performed with 20% of the data reserved for testing. The AI-generated images include a wider variety of styles, such as boots and sandals, while the real images are primarily men's sneakers.
+The dataset (retrived from [Kaggle](https://www.kaggle.com/datasets/sunnykakar/shoes-dataset-real-and-ai-generated-images)) comprises 2,181 images, split into 824 real images and 1,357 AI-generated images. Images were resized to 240x240 pixels, and a train-test split was performed with 20% of the data reserved for testing. The AI-generated images include a wider variety of styles, such as boots and sandals, while the real images are primarily men's sneakers.
 
 ## Model Architecture
 
